@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-10-09",
+    "symbol": "^SPX",
+    "priceEarningsRatio": "25.45",
+    "forwardPe": "21.30",
+    "dividendYield": "0.0135",
+    "earningsYield": "0.0392"
+  },
+  {
+    "date": "2026-10-08",
+    "symbol": "^SPX",
+    "priceEarningsRatio": "25.40",
+    "forwardPe": "21.28",
+    "dividendYield": "0.0136"
+  }
+]
